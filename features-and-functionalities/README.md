@@ -87,8 +87,7 @@ Backend development for the Airbnb Clone focuses on creating server-side logic, 
 
 
 ##  **Diagram of Features and Functionalities**
-The following diagram outlines the features and interactions between the core components of the backend system:
+The following diagram outlines the features and interactions between the core components of the backend system:dig
 
-![Feature Flowchart](features-and-functionalities/feature-flowchart.png)
-
+![Feature Flowchart](./feature-flowchart.png)
 
